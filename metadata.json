@@ -1,0 +1,6 @@
+{
+  "name": "NEXUS OWNER - Business POS Management",
+  "description": "Enterprise mobile-first remote store monitoring, sales analytics, inventory tracking, and POS operations for business owners.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
